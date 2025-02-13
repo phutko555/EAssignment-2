@@ -1,0 +1,27 @@
+From 0230c00770a9994bd79976ee6aaef34086401415 Mon Sep 17 00:00:00 2001
+From: Giorgi Phutkaradze <phutkaradzeg3@gmail.com>
+Date: Thu, 13 Feb 2025 02:29:19 +0400
+Subject: [PATCH] modified first
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 6a02663..6cb54e0 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -3,8 +3,8 @@ Line 2
+ Line 3
+ Line 4
+ Line 5
+-Line 6
++Line Nice
+ Line 7
+-Line 8
++Line Wow
+ Line 9
+ Line 10      
+-- 
+2.15.0
+
